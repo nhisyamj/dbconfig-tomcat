@@ -4,6 +4,7 @@ This project is to configure datasource in tomcat xml files (context.xml, web.xm
 
 #Technologies:-
 
+- Java 8
 - Maven 3
 - JSP
 - Embedded Tomcat 7
