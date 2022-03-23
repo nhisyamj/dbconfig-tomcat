@@ -1,15 +1,15 @@
-#Description
+# Description
 
 This project is to configure datasource in tomcat xml files (context.xml, web.xml)
 
-#Technologies:-
+# Technologies:-
 
 - Maven 3
 - JSP
 - Embedded Tomcat 7
 - H2 database
 
-#Usage
+# Usage
 
 execute `mvn clean tomcat7:run`
 
